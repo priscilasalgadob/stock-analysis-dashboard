@@ -102,5 +102,5 @@ pip install pandas numpy matplotlib seaborn streamlit plotly
 ## 👤 Author
 
 **Priscila Salgado**
-- 📧 priscila.salgadobolanos@wwt.com
+- 📧 priscisb09@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/priscila-salgado-84914615b)
